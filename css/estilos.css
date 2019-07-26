@@ -1,4 +1,16 @@
 body
+<<<<<<< HEAD
+=======
+{
+    color: red;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+>>>>>>> cabecera
 #cabecera
 {
     background: blue;
